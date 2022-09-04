@@ -1,0 +1,1 @@
+> sudo loadkeys fr :: for VMware >< Ubuntu Keyboard config
